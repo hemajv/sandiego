@@ -1,0 +1,10 @@
+{
+    "connection_string": "sqlite:///:memory:",
+    "database": "sandiego",
+    "host": "sandiego.osci.io",
+    "password": "OFaccess21",
+    "port": 6432,
+    "schema": "augur_data",
+    "user": "augur",
+    "user_type": "read_only"
+}
